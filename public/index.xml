@@ -1,67 +1,264 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <title>Grant Foster</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grant Foster</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Grant Foster</title>
+      <link>https://example.com/</link>
+    </image>
+    
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>/post/2016-12-30-hello-markdown/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
-      
-      <guid>/post/2016-12-30-hello-markdown/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
-You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+      <title>Citizen Science in a Changing World (Speaker &#43; Panelist)</title>
+      <link>https://example.com/talk/citizen-science-in-a-changing-world-speaker--panelist/</link>
+      <pubDate>Wed, 15 May 2024 10:45:00 +0000</pubDate>
+      <guid>https://example.com/talk/citizen-science-in-a-changing-world-speaker--panelist/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
-      <title>Research Interests</title>
-      <link>/post/2023-02-27-research-interests/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
-      
-      <guid>/post/2023-02-27-research-interests/</guid>
-      <description>About Grant: The purpose of this post is mostly to introduce me! I&amp;rsquo;m a quantitative ecologist in training at the University of South Carolina under Dr. Tad Dallas. I&amp;rsquo;m interested in undergraduate ecology education, and hope to be able to pursue a tenure-track teaching position following graduation from my PhD. I&amp;rsquo;m also interested in other things, including integrating computational data science with Ecology, as well as modeling species interaction networks.</description>
+      <title>Disease Ecology Lab Materials</title>
+      <link>https://example.com/post/diseaseecology/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/diseaseecology/</guid>
+      <description>&lt;p&gt;In Spring of 2024, I was was enough to able to co-develop and co-teach Parasitology (BIOL 531/ENHS 661/EPID 661) alongside Tad Dallas.&lt;/p&gt;
+&lt;p&gt;The course has an associated weekly 3 hour lab that I was able to create materials for, which I split between a mix of hands-on and computational labs using R. The syllabus for this course, as well as all student facing materials (both those created by myself and Tad) are publicly available on the &lt;a href=&#34;https://dallaslab.github.io/diseaseEcology/syllabus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course website here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Feel free to implement any of these activities or assignments into you own courses! I&amp;rsquo;m also happy to provide instructor-facing implementation and grading notes for each of the labs as well; just send me an email!&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Second markdown page test</title>
-      <link>/post/2023-5-1-hello-markdown/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
-      
-      <guid>/post/2023-5-1-hello-markdown/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
-You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+      <title>Understanding Ecological Interactions Across Geographic Ranges</title>
+      <link>https://example.com/project/intermod/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/intermod/</guid>
+      <description>&lt;p&gt;Across their geographic ranges, potential symbionts may interact any place they co-occur, or they may interact in only a subset of these sites. As a result, the actual presence of an interaction may be the result of local environmental or ecological contexts. The occurrence of an interaction may be due to the presence or absence of alternative partners (e.g., species may only interact with low-quality partners only if high-quality partners are absent), or directly due to abiotic conditions (e.g., one species’ preferences for or phenological overlap with a potential partner may change as a function of temperature). Given the tight coupling between their interactions, we expect that phylogenetically specialized symbionts to have little deviation between the potential and realized geography of their interactions, while we expect phylogenetically generalist species to realize a proportionally smaller portion of their potential geography. To test this hypothesis, we use a distribution modeling framework to predict the geographic overlap of symbiotic species, and then compare that overlap to models explicitly trained on geographic records of their interactions. We apply this framework to large-scale floral visitation, frugivory, and host-parasite networks. We find that congruence between geographic overlap and realized interactions differs across network types, but is generally higher for more phylogenetically specialized symbionts. Our results highlight the role that local ecological and environmental contexts play in mediating facultative interspecific interactions, and ultimately the potential for changing environments to alter ecological network structures.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <title>R modules for Honors Ecology &amp; Evolution</title>
+      <link>https://example.com/post/h301/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/h301/</guid>
+      <description>&lt;p&gt;In Fall 2023, I was able to be the teaching assistant for the honors section of Ecology and Evolution lab under &lt;a href=&#34;https://sc.edu/study/colleges_schools/artsandsciences/biological_sciences/our_people/directory/franklin_william.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Trey Franklin&lt;/a&gt;. A number of the labs associated with this course include analytical components that have historically been taught in R. However, for the honors section this year I instead included a (hopefully) gentle introduction to R, which students used throughout the semester.&lt;/p&gt;
+&lt;p&gt;A zip file containing all the student-facing I created R materials and necessary associated data can be downloaded &lt;a href=&#34;https://example.com/uploads/BIOL301L_Materials.zip&#34;&gt;here&lt;/a&gt;. Feel free to adapt or use any of these materials in your own classes, or reach out if you have any ideas of questions!&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>/about/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.
-Headings work in markdown language, right? The purpose of this post is mostly to introduce me! I&amp;rsquo;m Grant Foster a quantitative ecologist in training at the University of South Carolina under Dr. Tad Dallas. I&amp;rsquo;m interested in undergraduate ecology education, and hope to be able to pursue a tenure-track teaching position following graduation from my PhD.</description>
+      <title>Strategies to Assess Data Science Skills in Undergraduate Biology Classrooms</title>
+      <link>https://example.com/project/assessment/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/assessment/</guid>
+      <description>&lt;p&gt;As biologists we code frequently in our work, but many of us didn&amp;rsquo;t learn to code in the classroom. As such, when we&amp;rsquo;re then trying to assess coding skills in our own classrooms, we may not always be aware of the variety of different assessment styles at our disposal. As part of a collaborative project with members of the &lt;a href=&#34;https://qubeshub.org/community/groups/bede&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biological and Environmental Data Education (BEDE) Network&lt;/a&gt;, we&amp;rsquo;re looking to create a guide to potential assessment tailored to biological sciences. We hope to turn this work into a public facing resource available to biology instructors everywhere!&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Lorem Ipsum</title>
-      <link>/post/2015-01-01-lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
+      <title>Mutualistic Network Assembly Across Space</title>
+      <link>https://example.com/project/metacon/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/metacon/</guid>
+      <description>&lt;p&gt;In nature, local species interaction networks are dynamic, changing in composition and structural properties as new species disperse to the area, existing species become locally extirpated, and as existing links rewire to form new associations or dissolve old ones. These local-scale changes have important impacts on regional-scale metacommunity structure and stability, and understanding the role biotic interactions play in mediating these processes can yield important insights into the maintenance of interaction network structure across scales. In order to help bridge this gap, we incorporate competitor-mediated dispersal (CMD) processes into a model of plant-pollinator network assembly across a spatially-explicit metacommunity. In addition to more broadly providing insight into feedbacks between biotic interactions and metacommunity dynamics within the context of mutualistic networks, we aim to answer the following research questions: 1) At the metacommunity scale, does the presence or strength of CMD processes tend to stabilize or destabilize population and community dynamics? 2) Do CMD processes allow the persistence of generalist species where they may be otherwise excluded? And 3) Do CMD processes, in concert with environmental heterogeneity, work to dampen or amplify spatial “hotspots” or “coldspots” of generalism?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Link Prediction in Tropical Plant-Frugivore Interaction Networks</title>
+      <link>https://example.com/project/fruglink/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/fruglink/</guid>
+      <description>&lt;p&gt;The observed structure of a consumer-resource network consists of only a subset of potential links within that network. The true structure deviates from the metaweb of potential interactions due to stochastic assembly processes, while sampling effort limitations and error mean our observed network likely imperfectly represents this realized structure. Link prediction methods allow us to construct potential metawebs for a given empirical network. These predictions can guide targeted sampling of predicted links between rare species as well as give insight into potential interactions that may occur as species’ ranges shift. These interactions may be predicted using a variety of information types; understanding how different kinds of information compare in their ability to predict links between different types of nodes is important. To this end, we compare random-forest classifier models informed by combinations of phylogenetic structure, species traits, and latent network structure in their ability to predict interactions in a diverse network of fruiting plants and frugivorous birds in Brazil’s Atlantic forest.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Changes in Mutualistic Network Architecture in Response to Human Change</title>
+      <link>https://example.com/project/review/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/review/</guid>
+      <description>&lt;p&gt;Anthropogenic disturbance and climate change impacts nearly all ecosystems on the planet through a number of mechanisms, one of which may be the altering of mutualistic interactions. Species turnover due to invasion and extinction, mismatches in species phenology, and other factors may fundamentally alter the architecture of mutualistic networks in many systems. These architectural changes may have predictable impacts on network features such as network stability or strength of hysteresis. Understanding how the structure of mutualistic networks are changing in general as well how these changes effect emergent network properties can allow us to better predict and manage threatened ecosystems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Epidemic time series similarity is related to geographic distance and age structure</title>
+      <link>https://example.com/publication/agestructure/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/agestructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparisons of Covid-19 Outbreak Dynamics across space and time</title>
+      <link>https://example.com/project/revisit1918/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/revisit1918/</guid>
+      <description>&lt;p&gt;The large spatial scale, geographical overlap, and similarities in transmission mode between the 1918 H1N1 influenza and 2020 SARS-CoV-2 pandemics together provide a novel opportunity to investigate relationships between transmission of two different diseases in the same location. To this end, we use initial exponential growth rates in a Bayesian hierarchical framework to estimate the basic reproductive number, R0, of both disease outbreaks in a common set of 43 cities in the United States. By leveraging multiple epidemic time series across a large spatial area, we are able to better characterize the variation in R0 across the United States. Additionally, we provide one of the first city-level comparisons of R0 between these two pandemics and explore how demography and outbreak timing are related to R0. Despite similarities in transmission modes and a common set of locations, R0 estimates for COVID-19 were uncorrelated with estimates of pandemic influenza R0 in the same cities. Also, the relationships between R0 and key population or epidemic traits differed between diseases. For example, epidemics that started later tended to be less severe for COVID-19, while influenza epidemics exhibited an opposite pattern. Our results suggest that despite similarities between diseases, epidemics starting in the same location may differ markedly in their initial progression.&lt;/p&gt;
+&lt;p&gt;This work has been published in &lt;em&gt;PNAS: Nexus&lt;/em&gt; with open access available to the public, &lt;a href=&#34;https://doi.org/10.1093/pnasnexus/pgac194&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;read it here!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimating R0 from early exponential growth: parallels between 1918 influenza and 2020 SARS-CoV-2 pandemics</title>
+      <link>https://example.com/publication/revisit1918/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/revisit1918/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparing Waves of COVID-19 in the US: Scale of response changes over time</title>
+      <link>https://example.com/publication/preprint/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://example.com/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
       
-      <guid>/post/2015-01-01-lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

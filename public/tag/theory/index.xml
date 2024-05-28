@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theory | Grant Foster</title>
+    <link>https://example.com/tag/theory/</link>
+      <atom:link href="https://example.com/tag/theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Theory</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Theory</title>
+      <link>https://example.com/tag/theory/</link>
+    </image>
+    
+    <item>
+      <title>Mutualistic Network Assembly Across Space</title>
+      <link>https://example.com/project/metacon/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/metacon/</guid>
+      <description>&lt;p&gt;In nature, local species interaction networks are dynamic, changing in composition and structural properties as new species disperse to the area, existing species become locally extirpated, and as existing links rewire to form new associations or dissolve old ones. These local-scale changes have important impacts on regional-scale metacommunity structure and stability, and understanding the role biotic interactions play in mediating these processes can yield important insights into the maintenance of interaction network structure across scales. In order to help bridge this gap, we incorporate competitor-mediated dispersal (CMD) processes into a model of plant-pollinator network assembly across a spatially-explicit metacommunity. In addition to more broadly providing insight into feedbacks between biotic interactions and metacommunity dynamics within the context of mutualistic networks, we aim to answer the following research questions: 1) At the metacommunity scale, does the presence or strength of CMD processes tend to stabilize or destabilize population and community dynamics? 2) Do CMD processes allow the persistence of generalist species where they may be otherwise excluded? And 3) Do CMD processes, in concert with environmental heterogeneity, work to dampen or amplify spatial “hotspots” or “coldspots” of generalism?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparisons of Covid-19 Outbreak Dynamics across space and time</title>
+      <link>https://example.com/project/revisit1918/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/revisit1918/</guid>
+      <description>&lt;p&gt;The large spatial scale, geographical overlap, and similarities in transmission mode between the 1918 H1N1 influenza and 2020 SARS-CoV-2 pandemics together provide a novel opportunity to investigate relationships between transmission of two different diseases in the same location. To this end, we use initial exponential growth rates in a Bayesian hierarchical framework to estimate the basic reproductive number, R0, of both disease outbreaks in a common set of 43 cities in the United States. By leveraging multiple epidemic time series across a large spatial area, we are able to better characterize the variation in R0 across the United States. Additionally, we provide one of the first city-level comparisons of R0 between these two pandemics and explore how demography and outbreak timing are related to R0. Despite similarities in transmission modes and a common set of locations, R0 estimates for COVID-19 were uncorrelated with estimates of pandemic influenza R0 in the same cities. Also, the relationships between R0 and key population or epidemic traits differed between diseases. For example, epidemics that started later tended to be less severe for COVID-19, while influenza epidemics exhibited an opposite pattern. Our results suggest that despite similarities between diseases, epidemics starting in the same location may differ markedly in their initial progression.&lt;/p&gt;
+&lt;p&gt;This work has been published in &lt;em&gt;PNAS: Nexus&lt;/em&gt; with open access available to the public, &lt;a href=&#34;https://doi.org/10.1093/pnasnexus/pgac194&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;read it here!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
