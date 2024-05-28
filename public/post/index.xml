@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Grant Foster</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
       <title>Disease Ecology Lab Materials</title>
-      <link>https://example.com/post/diseaseecology/</link>
+      <link>http://localhost:1313/post/diseaseecology/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/diseaseecology/</guid>
+      <guid>http://localhost:1313/post/diseaseecology/</guid>
       <description>&lt;p&gt;In Spring of 2024, I was was enough to able to co-develop and co-teach Parasitology (BIOL 531/ENHS 661/EPID 661) alongside Tad Dallas.&lt;/p&gt;
 &lt;p&gt;The course has an associated weekly 3 hour lab that I was able to create materials for, which I split between a mix of hands-on and computational labs using R. The syllabus for this course, as well as all student facing materials (both those created by myself and Tad) are publicly available on the &lt;a href=&#34;https://dallaslab.github.io/diseaseEcology/syllabus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course website here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Feel free to implement any of these activities or assignments into you own courses! I&amp;rsquo;m also happy to provide instructor-facing implementation and grading notes for each of the labs as well; just send me an email!&lt;/p&gt;
@@ -25,11 +25,11 @@
     
     <item>
       <title>R modules for Honors Ecology &amp; Evolution</title>
-      <link>https://example.com/post/h301/</link>
+      <link>http://localhost:1313/post/h301/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/h301/</guid>
+      <guid>http://localhost:1313/post/h301/</guid>
       <description>&lt;p&gt;In Fall 2023, I was able to be the teaching assistant for the honors section of Ecology and Evolution lab under &lt;a href=&#34;https://sc.edu/study/colleges_schools/artsandsciences/biological_sciences/our_people/directory/franklin_william.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Trey Franklin&lt;/a&gt;. A number of the labs associated with this course include analytical components that have historically been taught in R. However, for the honors section this year I instead included a (hopefully) gentle introduction to R, which students used throughout the semester.&lt;/p&gt;
-&lt;p&gt;A zip file containing all the student-facing I created R materials and necessary associated data can be downloaded &lt;a href=&#34;https://example.com/uploads/BIOL301L_Materials.zip&#34;&gt;here&lt;/a&gt;. Feel free to adapt or use any of these materials in your own classes, or reach out if you have any ideas of questions!&lt;/p&gt;
+&lt;p&gt;A zip file containing all the student-facing I created R materials and necessary associated data can be downloaded &lt;a href=&#34;http://localhost:1313/uploads/BIOL301L_Materials.zip&#34;&gt;here&lt;/a&gt;. Feel free to adapt or use any of these materials in your own classes, or reach out if you have any ideas of questions!&lt;/p&gt;
 </description>
     </item>
     

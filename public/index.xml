@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grant Foster</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Grant Foster</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Grant Foster</title>
-      <link>https://example.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Citizen Science in a Changing World (Speaker &#43; Panelist)</title>
-      <link>https://example.com/talk/citizen-science-in-a-changing-world-speaker--panelist/</link>
+      <link>http://localhost:1313/talk/citizen-science-in-a-changing-world-speaker--panelist/</link>
       <pubDate>Wed, 15 May 2024 10:45:00 +0000</pubDate>
-      <guid>https://example.com/talk/citizen-science-in-a-changing-world-speaker--panelist/</guid>
+      <guid>http://localhost:1313/talk/citizen-science-in-a-changing-world-speaker--panelist/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -27,9 +27,9 @@
     
     <item>
       <title>Disease Ecology Lab Materials</title>
-      <link>https://example.com/post/diseaseecology/</link>
+      <link>http://localhost:1313/post/diseaseecology/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/diseaseecology/</guid>
+      <guid>http://localhost:1313/post/diseaseecology/</guid>
       <description>&lt;p&gt;In Spring of 2024, I was was enough to able to co-develop and co-teach Parasitology (BIOL 531/ENHS 661/EPID 661) alongside Tad Dallas.&lt;/p&gt;
 &lt;p&gt;The course has an associated weekly 3 hour lab that I was able to create materials for, which I split between a mix of hands-on and computational labs using R. The syllabus for this course, as well as all student facing materials (both those created by myself and Tad) are publicly available on the &lt;a href=&#34;https://dallaslab.github.io/diseaseEcology/syllabus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course website here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Feel free to implement any of these activities or assignments into you own courses! I&amp;rsquo;m also happy to provide instructor-facing implementation and grading notes for each of the labs as well; just send me an email!&lt;/p&gt;
@@ -38,72 +38,72 @@
     
     <item>
       <title>Understanding Ecological Interactions Across Geographic Ranges</title>
-      <link>https://example.com/project/intermod/</link>
+      <link>http://localhost:1313/project/intermod/</link>
       <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/intermod/</guid>
+      <guid>http://localhost:1313/project/intermod/</guid>
       <description>&lt;p&gt;Across their geographic ranges, potential symbionts may interact any place they co-occur, or they may interact in only a subset of these sites. As a result, the actual presence of an interaction may be the result of local environmental or ecological contexts. The occurrence of an interaction may be due to the presence or absence of alternative partners (e.g., species may only interact with low-quality partners only if high-quality partners are absent), or directly due to abiotic conditions (e.g., one species’ preferences for or phenological overlap with a potential partner may change as a function of temperature). Given the tight coupling between their interactions, we expect that phylogenetically specialized symbionts to have little deviation between the potential and realized geography of their interactions, while we expect phylogenetically generalist species to realize a proportionally smaller portion of their potential geography. To test this hypothesis, we use a distribution modeling framework to predict the geographic overlap of symbiotic species, and then compare that overlap to models explicitly trained on geographic records of their interactions. We apply this framework to large-scale floral visitation, frugivory, and host-parasite networks. We find that congruence between geographic overlap and realized interactions differs across network types, but is generally higher for more phylogenetically specialized symbionts. Our results highlight the role that local ecological and environmental contexts play in mediating facultative interspecific interactions, and ultimately the potential for changing environments to alter ecological network structures.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>R modules for Honors Ecology &amp; Evolution</title>
-      <link>https://example.com/post/h301/</link>
+      <link>http://localhost:1313/post/h301/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/h301/</guid>
+      <guid>http://localhost:1313/post/h301/</guid>
       <description>&lt;p&gt;In Fall 2023, I was able to be the teaching assistant for the honors section of Ecology and Evolution lab under &lt;a href=&#34;https://sc.edu/study/colleges_schools/artsandsciences/biological_sciences/our_people/directory/franklin_william.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Trey Franklin&lt;/a&gt;. A number of the labs associated with this course include analytical components that have historically been taught in R. However, for the honors section this year I instead included a (hopefully) gentle introduction to R, which students used throughout the semester.&lt;/p&gt;
-&lt;p&gt;A zip file containing all the student-facing I created R materials and necessary associated data can be downloaded &lt;a href=&#34;https://example.com/uploads/BIOL301L_Materials.zip&#34;&gt;here&lt;/a&gt;. Feel free to adapt or use any of these materials in your own classes, or reach out if you have any ideas of questions!&lt;/p&gt;
+&lt;p&gt;A zip file containing all the student-facing I created R materials and necessary associated data can be downloaded &lt;a href=&#34;http://localhost:1313/uploads/BIOL301L_Materials.zip&#34;&gt;here&lt;/a&gt;. Feel free to adapt or use any of these materials in your own classes, or reach out if you have any ideas of questions!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Strategies to Assess Data Science Skills in Undergraduate Biology Classrooms</title>
-      <link>https://example.com/project/assessment/</link>
+      <link>http://localhost:1313/project/assessment/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/assessment/</guid>
+      <guid>http://localhost:1313/project/assessment/</guid>
       <description>&lt;p&gt;As biologists we code frequently in our work, but many of us didn&amp;rsquo;t learn to code in the classroom. As such, when we&amp;rsquo;re then trying to assess coding skills in our own classrooms, we may not always be aware of the variety of different assessment styles at our disposal. As part of a collaborative project with members of the &lt;a href=&#34;https://qubeshub.org/community/groups/bede&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biological and Environmental Data Education (BEDE) Network&lt;/a&gt;, we&amp;rsquo;re looking to create a guide to potential assessment tailored to biological sciences. We hope to turn this work into a public facing resource available to biology instructors everywhere!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mutualistic Network Assembly Across Space</title>
-      <link>https://example.com/project/metacon/</link>
+      <link>http://localhost:1313/project/metacon/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/metacon/</guid>
+      <guid>http://localhost:1313/project/metacon/</guid>
       <description>&lt;p&gt;In nature, local species interaction networks are dynamic, changing in composition and structural properties as new species disperse to the area, existing species become locally extirpated, and as existing links rewire to form new associations or dissolve old ones. These local-scale changes have important impacts on regional-scale metacommunity structure and stability, and understanding the role biotic interactions play in mediating these processes can yield important insights into the maintenance of interaction network structure across scales. In order to help bridge this gap, we incorporate competitor-mediated dispersal (CMD) processes into a model of plant-pollinator network assembly across a spatially-explicit metacommunity. In addition to more broadly providing insight into feedbacks between biotic interactions and metacommunity dynamics within the context of mutualistic networks, we aim to answer the following research questions: 1) At the metacommunity scale, does the presence or strength of CMD processes tend to stabilize or destabilize population and community dynamics? 2) Do CMD processes allow the persistence of generalist species where they may be otherwise excluded? And 3) Do CMD processes, in concert with environmental heterogeneity, work to dampen or amplify spatial “hotspots” or “coldspots” of generalism?&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Link Prediction in Tropical Plant-Frugivore Interaction Networks</title>
-      <link>https://example.com/project/fruglink/</link>
+      <link>http://localhost:1313/project/fruglink/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/fruglink/</guid>
+      <guid>http://localhost:1313/project/fruglink/</guid>
       <description>&lt;p&gt;The observed structure of a consumer-resource network consists of only a subset of potential links within that network. The true structure deviates from the metaweb of potential interactions due to stochastic assembly processes, while sampling effort limitations and error mean our observed network likely imperfectly represents this realized structure. Link prediction methods allow us to construct potential metawebs for a given empirical network. These predictions can guide targeted sampling of predicted links between rare species as well as give insight into potential interactions that may occur as species’ ranges shift. These interactions may be predicted using a variety of information types; understanding how different kinds of information compare in their ability to predict links between different types of nodes is important. To this end, we compare random-forest classifier models informed by combinations of phylogenetic structure, species traits, and latent network structure in their ability to predict interactions in a diverse network of fruiting plants and frugivorous birds in Brazil’s Atlantic forest.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Changes in Mutualistic Network Architecture in Response to Human Change</title>
-      <link>https://example.com/project/review/</link>
+      <link>http://localhost:1313/project/review/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/review/</guid>
+      <guid>http://localhost:1313/project/review/</guid>
       <description>&lt;p&gt;Anthropogenic disturbance and climate change impacts nearly all ecosystems on the planet through a number of mechanisms, one of which may be the altering of mutualistic interactions. Species turnover due to invasion and extinction, mismatches in species phenology, and other factors may fundamentally alter the architecture of mutualistic networks in many systems. These architectural changes may have predictable impacts on network features such as network stability or strength of hysteresis. Understanding how the structure of mutualistic networks are changing in general as well how these changes effect emergent network properties can allow us to better predict and manage threatened ecosystems.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Epidemic time series similarity is related to geographic distance and age structure</title>
-      <link>https://example.com/publication/agestructure/</link>
+      <link>http://localhost:1313/publication/agestructure/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/agestructure/</guid>
+      <guid>http://localhost:1313/publication/agestructure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparisons of Covid-19 Outbreak Dynamics across space and time</title>
-      <link>https://example.com/project/revisit1918/</link>
+      <link>http://localhost:1313/project/revisit1918/</link>
       <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/revisit1918/</guid>
+      <guid>http://localhost:1313/project/revisit1918/</guid>
       <description>&lt;p&gt;The large spatial scale, geographical overlap, and similarities in transmission mode between the 1918 H1N1 influenza and 2020 SARS-CoV-2 pandemics together provide a novel opportunity to investigate relationships between transmission of two different diseases in the same location. To this end, we use initial exponential growth rates in a Bayesian hierarchical framework to estimate the basic reproductive number, R0, of both disease outbreaks in a common set of 43 cities in the United States. By leveraging multiple epidemic time series across a large spatial area, we are able to better characterize the variation in R0 across the United States. Additionally, we provide one of the first city-level comparisons of R0 between these two pandemics and explore how demography and outbreak timing are related to R0. Despite similarities in transmission modes and a common set of locations, R0 estimates for COVID-19 were uncorrelated with estimates of pandemic influenza R0 in the same cities. Also, the relationships between R0 and key population or epidemic traits differed between diseases. For example, epidemics that started later tended to be less severe for COVID-19, while influenza epidemics exhibited an opposite pattern. Our results suggest that despite similarities between diseases, epidemics starting in the same location may differ markedly in their initial progression.&lt;/p&gt;
 &lt;p&gt;This work has been published in &lt;em&gt;PNAS: Nexus&lt;/em&gt; with open access available to the public, &lt;a href=&#34;https://doi.org/10.1093/pnasnexus/pgac194&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;read it here!&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -111,9 +111,9 @@
     
     <item>
       <title>Estimating R0 from early exponential growth: parallels between 1918 influenza and 2020 SARS-CoV-2 pandemics</title>
-      <link>https://example.com/publication/revisit1918/</link>
+      <link>http://localhost:1313/publication/revisit1918/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/revisit1918/</guid>
+      <guid>http://localhost:1313/publication/revisit1918/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -130,17 +130,17 @@
     
     <item>
       <title>Comparing Waves of COVID-19 in the US: Scale of response changes over time</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>http://localhost:1313/publication/preprint/</link>
       <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
+      <guid>http://localhost:1313/publication/preprint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>http://localhost:1313/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>http://localhost:1313/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
