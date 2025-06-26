@@ -2,123 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/event/</loc>
+    <loc>https://example.com/talk/from-potential-to-realized-understanding-ecological-interactions-across-geographic-ranges/</loc>
     <lastmod>2024-08-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/talk/citizen-science-in-a-changing-world-speaker--panelist/</loc>
+    <loc>https://example.com/event/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talk/citizen-science-in-a-changing-world-speaker--panelist/</loc>
     <lastmod>2024-05-15T10:45:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/diseaseecology/</loc>
+    <loc>https://example.com/post/diseaseecology/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://example.com/post/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/frugivory/</loc>
+    <loc>https://example.com/tag/frugivory/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/networks/</loc>
+    <loc>https://example.com/tag/networks/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://example.com/project/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/intermod/</loc>
+    <loc>https://example.com/project/intermod/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/h301/</loc>
+    <loc>https://example.com/post/h301/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/pedagogy/</loc>
+    <loc>https://example.com/tag/pedagogy/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/assessment/</loc>
+    <loc>https://example.com/project/assessment/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/metacon/</loc>
+    <loc>https://example.com/project/metacon/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/theory/</loc>
+    <loc>https://example.com/tag/theory/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/fruglink/</loc>
+    <loc>https://example.com/project/fruglink/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication-type/article-journal/</loc>
+    <loc>https://example.com/publication-type/article-journal/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/review/</loc>
+    <loc>https://example.com/project/review/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/agestructure/</loc>
+    <loc>https://example.com/publication/agestructure/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://example.com/publication_types/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>https://example.com/publication/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/source-themes/</loc>
+    <loc>https://example.com/tag/source-themes/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/revisit1918/</loc>
+    <loc>https://example.com/project/revisit1918/</loc>
     <lastmod>2022-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/disease/</loc>
+    <loc>https://example.com/tag/disease/</loc>
     <lastmod>2022-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/revisit1918/</loc>
+    <loc>https://example.com/publication/revisit1918/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication-type/article/</loc>
+    <loc>https://example.com/publication-type/article/</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/preprint/</loc>
+    <loc>https://example.com/publication/preprint/</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/slides/</loc>
+    <loc>https://example.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/slides/example/</loc>
+    <loc>https://example.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

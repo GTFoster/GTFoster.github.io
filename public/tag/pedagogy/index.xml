@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pedagogy | Grant Foster</title>
-    <link>http://localhost:1313/tag/pedagogy/</link>
-      <atom:link href="http://localhost:1313/tag/pedagogy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tag/pedagogy/</link>
+      <atom:link href="https://example.com/tag/pedagogy/index.xml" rel="self" type="application/rss+xml" />
     <description>Pedagogy</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Pedagogy</title>
-      <link>http://localhost:1313/tag/pedagogy/</link>
+      <link>https://example.com/tag/pedagogy/</link>
     </image>
     
     <item>
       <title>Strategies to Assess Data Science Skills in Undergraduate Biology Classrooms</title>
-      <link>http://localhost:1313/project/assessment/</link>
+      <link>https://example.com/project/assessment/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/assessment/</guid>
+      <guid>https://example.com/project/assessment/</guid>
       <description>&lt;p&gt;As biologists we code frequently in our work, but many of us didn&amp;rsquo;t learn to code in the classroom. As such, when we&amp;rsquo;re then trying to assess coding skills in our own classrooms, we may not always be aware of the variety of different assessment styles at our disposal. As part of a collaborative project with members of the &lt;a href=&#34;https://qubeshub.org/community/groups/bede&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biological and Environmental Data Education (BEDE) Network&lt;/a&gt;, we&amp;rsquo;re looking to create a guide to potential assessment tailored to biological sciences. We hope to turn this work into a public facing resource available to biology instructors everywhere!&lt;/p&gt;
 </description>
     </item>
