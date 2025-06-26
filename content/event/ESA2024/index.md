@@ -6,9 +6,9 @@ event_url: https://www.esa.org/longbeach2024/
 
 location: University of South Carolina
 
-summary: I'll be presenting some of my work predicting species interactions across space as a poster at ESA 2024 this year! Take a look at the [project page](/project/intermod/) to read more. I'll update the exact session time below once I receive it!
+summary: I'll be presenting some of my work predicting species interactions across space as a poster at ESA 2024 this year! Take a look at the [project page](/project/intermod/) to read more. 
 
-abstract: I'll be presenting some of my work predicting species interactions across space as a poster at ESA 2024 this year! Take a look at the [project page](/project/intermod/) to read more. I'll update the exact session time below once I receive it!
+abstract: I'll be presenting some of my work predicting species interactions across space as a poster at ESA 2024 this year! Take a look at the [project page](/project/intermod/) to read more.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
