@@ -14,6 +14,20 @@
     
     <item>
       <title>Disease Ecology Lab Materials</title>
+      <link>https://example.com/post/climatechange_sdm/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/climatechange_sdm/</guid>
+      <description>&lt;p&gt;Anthropogenic climate change is a concept that often seems abstract to many students, and I feel like scaffolding students&amp;rsquo; learning about climate impacts onto their personal experiences with local ecosystems can make them learn more effectively.&lt;/p&gt;
+&lt;p&gt;I pitched this premise to USC&amp;rsquo;s Center for Teaching Excellence under their &lt;a href=&#34;https://sc.edu/about/offices_and_divisions/cte/programs/grants/gta_teaching_resources_grant/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTA Teaching Resource Development Grant&lt;/a&gt; in Spring 2024 and was lucky enough to receive to support developing these materials.&lt;/p&gt;
+&lt;p&gt;Broadly centered on helping students understand the evidence for anthropogenic-drivers of climate change and connect its effects to their own lived experiences, I&amp;rsquo;d originally pitched these materials to be broken down into three submodules. The first asks students to evaluate evidence for anthropogenic climate change and evaluate different arguments commonly made to belittle its effects or causes through role-play debates. The second asks students to analyze local climate data and develop species distribution models for local species under projected climatic scenarios. Finally, students will be asked to research and speak about a way that climate change impacts their own experience. While together these three submodules do scaffold off one another, an emphasis on modularity allows materials to be changed or adapted to different course contexts.&lt;/p&gt;
+&lt;p&gt;I presented and got some really helpful feedback on this proposal as a panelist in &lt;a href=&#34;https://esa.org/programs/ecology-education/reefs/reefs-2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESA&amp;rsquo;s 2024 REEFS session&lt;/a&gt;, and trailed a draft of these materials in two sections of Ecology and Evolution lab Fall of 2025. You can check those initial versions of those &lt;a href=&#34;https://example.com/uploads/climChangeSDMlab13.zip&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m really happy with the engagement I got from students, and many of them made some pretty cool species distribution maps of taxa they&amp;rsquo;re interested in.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m hoping to (eventually) write submodule two of this into a shiny app that can help make it more accessible to courses that aren&amp;rsquo;t using R. I&amp;rsquo;ll also be steadily improving this before implementing it again in labs this coming Fall, so check back for more update versions!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disease Ecology Lab Materials</title>
       <link>https://example.com/post/diseaseecology/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/diseaseecology/</guid>

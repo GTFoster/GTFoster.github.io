@@ -1,7 +1,7 @@
 ---
 title: R modules for Honors Ecology & Evolution
 date: '2023-12-01'
-summary: Student-facing materials for a mid-level disease ecology lab!
+summary: R analysis modules for Sophomore-level Ecology and Evolution lab
 image: 
   caption: Photo by Leslie Cross on Unsplash
   focal_point: Smart
