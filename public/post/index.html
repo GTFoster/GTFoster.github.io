@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: June 26, 2025 --><html lang="en-us" >
+<!-- Last Published: August 5, 2025 --><html lang="en-us" >
 
 
 <head>
@@ -241,6 +241,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-84ER18TXJ7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-84ER18TXJ7', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -331,7 +370,7 @@
 <meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
-    <meta property="og:updated_time" content="2024-05-04T00:00:00&#43;00:00" />
+    <meta property="og:updated_time" content="2025-05-23T00:00:00&#43;00:00" />
   
 
 
@@ -849,13 +888,13 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/post/climatechange_sdm/" >Disease Ecology Lab Materials</a>
+      <a href="/post/climatechange_sdm/" >Using SDMs to Connect Climate Change to Student&#39;s Lived Experience</a>
     </div>
 
     
     <a href="/post/climatechange_sdm/"  class="summary-link">
       <div class="article-style">
-        Student-facing materials for an upper level disease ecology lab!
+        An initial draft of materials for a three-module lab series, supported by a USC Center for Teaching Excellence Materials Development Grant.
       </div>
     </a>
     
@@ -879,7 +918,7 @@
     
       
     
-    May 4, 2024
+    May 23, 2025
   </span>
   
 
@@ -915,7 +954,7 @@
       
       <a href="/post/climatechange_sdm/" >
         <img src="/post/climatechange_sdm/featured_huc93f4ccc73d5ee74abbd4e41925f3769_84014_e637be86e042ddafe3b26df972274eac.webp" height="56" width="150"
-            alt="Disease Ecology Lab Materials" loading="lazy">
+            alt="Using SDMs to Connect Climate Change to Student&#39;s Lived Experience" loading="lazy">
       </a>
     
   </div>
