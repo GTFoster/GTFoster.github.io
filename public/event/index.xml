@@ -5,12 +5,20 @@
     <link>https://example.com/event/</link>
       <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Mar 2025 19:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://example.com/event/</link>
     </image>
+    
+    <item>
+      <title>Citizen Science from your Backyard</title>
+      <link>https://example.com/talk/citizen-science-from-your-backyard/</link>
+      <pubDate>Wed, 12 Mar 2025 19:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/citizen-science-from-your-backyard/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From Potential to Realized - Understanding Ecological Interactions Across Geographic Ranges</title>

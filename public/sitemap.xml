@@ -10,16 +10,36 @@
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/from-potential-to-realized-understanding-ecological-interactions-across-geographic-ranges/</loc>
-    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+    <loc>https://example.com/talk/citizen-science-from-your-backyard/</loc>
+    <lastmod>2025-03-12T19:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/event/</loc>
+    <lastmod>2025-03-12T19:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talk/from-potential-to-realized-understanding-ecological-interactions-across-geographic-ranges/</loc>
     <lastmod>2024-08-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/talk/citizen-science-in-a-changing-world-speaker--panelist/</loc>
     <lastmod>2024-05-15T10:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/covidchapter/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/source-themes/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/diseaseecology/</loc>
@@ -35,10 +55,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/project/</loc>
-    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -86,14 +102,6 @@
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/source-themes/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -104,10 +112,6 @@
   </url><url>
     <loc>https://example.com/tag/disease/</loc>
     <lastmod>2022-09-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/covidchapter/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/revisit1918/</loc>

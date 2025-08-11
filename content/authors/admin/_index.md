@@ -114,7 +114,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/GF_CV_May24.pdf
+    link: uploads/GF_CV_Aug25.pdf
   - icon: orcid
     icon_pack: ai 
     link: https://orcid.org/0000-0003-1167-4425

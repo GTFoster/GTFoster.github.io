@@ -27,6 +27,14 @@
     </item>
     
     <item>
+      <title>Citizen Science from your Backyard</title>
+      <link>https://example.com/talk/citizen-science-from-your-backyard/</link>
+      <pubDate>Wed, 12 Mar 2025 19:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/citizen-science-from-your-backyard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>From Potential to Realized - Understanding Ecological Interactions Across Geographic Ranges</title>
       <link>https://example.com/talk/from-potential-to-realized-understanding-ecological-interactions-across-geographic-ranges/</link>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
@@ -44,6 +52,25 @@
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preparing for the Next Pandemic: Learning Lessons from the Recent Past</title>
+      <link>https://example.com/publication/covidchapter/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/covidchapter/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -128,25 +155,6 @@
       <guid>https://example.com/project/revisit1918/</guid>
       <description>&lt;p&gt;The large spatial scale, geographical overlap, and similarities in transmission mode between the 1918 H1N1 influenza and 2020 SARS-CoV-2 pandemics together provide a novel opportunity to investigate relationships between transmission of two different diseases in the same location. To this end, we use initial exponential growth rates in a Bayesian hierarchical framework to estimate the basic reproductive number, R0, of both disease outbreaks in a common set of 43 cities in the United States. By leveraging multiple epidemic time series across a large spatial area, we are able to better characterize the variation in R0 across the United States. Additionally, we provide one of the first city-level comparisons of R0 between these two pandemics and explore how demography and outbreak timing are related to R0. Despite similarities in transmission modes and a common set of locations, R0 estimates for COVID-19 were uncorrelated with estimates of pandemic influenza R0 in the same cities. Also, the relationships between R0 and key population or epidemic traits differed between diseases. For example, epidemics that started later tended to be less severe for COVID-19, while influenza epidemics exhibited an opposite pattern. Our results suggest that despite similarities between diseases, epidemics starting in the same location may differ markedly in their initial progression.&lt;/p&gt;
 &lt;p&gt;This work has been published in &lt;em&gt;PNAS: Nexus&lt;/em&gt; with open access available to the public, &lt;a href=&#34;https://doi.org/10.1093/pnasnexus/pgac194&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;read it here!&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Estimating R0 from early exponential growth: parallels between 1918 influenza and 2020 SARS-CoV-2 pandemics</title>
-      <link>https://example.com/publication/covidchapter/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/covidchapter/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
