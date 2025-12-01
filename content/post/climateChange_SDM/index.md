@@ -8,7 +8,7 @@ You may have read this a post a while back detailing my first draft of materials
 
 After trialing this lab in my classes in Fall 2024, I improved these materials and my fellow 301L TA's on how to use them. We implemented them across all 10 sections this year (~230 students), and the lab got some really great feedback both from students and instructors! 
 
-An updated versions of these lab materials are available here. 
+An updated versions of these lab materials are available [here](/uploads/CC_Fall25.zip). 
 
 A quick summary of updates are: 
  - Incorporating a second SSP climate projection (2.6). Instead of just using the most extreme warming scenario (SSP 8.5), students compare the two climate scenarios. The model still runs as one function, but now gives three output maps (current conditions, 2061-2080 under SSP 2.6, and 2061-2080 under SSP 8.5)

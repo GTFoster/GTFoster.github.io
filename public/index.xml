@@ -19,7 +19,7 @@
       <guid>https://example.com/post/climatechange_sdm/</guid>
       <description>&lt;p&gt;You may have read this a post a while back detailing my first draft of materials for a CLimate Change module developed with the support of a USC Center for Teaching Excellence &lt;a href=&#34;https://sc.edu/about/offices_and_divisions/cte/programs/grants/gta_teaching_resources_grant/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTA Teaching Resource Development Grant&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;After trialing this lab in my classes in Fall 2024, I improved these materials and my fellow 301L TA&amp;rsquo;s on how to use them. We implemented them across all 10 sections this year (~230 students), and the lab got some really great feedback both from students and instructors!&lt;/p&gt;
-&lt;p&gt;An updated versions of these lab materials are available here.&lt;/p&gt;
+&lt;p&gt;An updated versions of these lab materials are available &lt;a href=&#34;https://example.com/uploads/CC_Fall25.zip&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;A quick summary of updates are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Incorporating a second SSP climate projection (2.6). Instead of just using the most extreme warming scenario (SSP 8.5), students compare the two climate scenarios. The model still runs as one function, but now gives three output maps (current conditions, 2061-2080 under SSP 2.6, and 2061-2080 under SSP 8.5)&lt;/li&gt;
@@ -49,12 +49,12 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/climatechange_sdm/Likert_Assessment_F25_Violin_hu60f1353fb4c777f6adb8c29ab439d149_119003_f1bc1b3f22d3c8e0264855c6986ebe61.webp 400w,
-               /post/climatechange_sdm/Likert_Assessment_F25_Violin_hu60f1353fb4c777f6adb8c29ab439d149_119003_7468652d908b2b47b0301223d73b8565.webp 760w,
-               /post/climatechange_sdm/Likert_Assessment_F25_Violin_hu60f1353fb4c777f6adb8c29ab439d149_119003_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/climatechange_sdm/Likert_Assessment_F25_Violin_hu60f1353fb4c777f6adb8c29ab439d149_119003_f1bc1b3f22d3c8e0264855c6986ebe61.webp&#34;
+               /post/climatechange_sdm/Likert_Assessment_F25_Violin_huec8b670f05d578700693ea9506b318e0_306248_c022f2eaf999b5cab6f04b03420e16ff.webp 400w,
+               /post/climatechange_sdm/Likert_Assessment_F25_Violin_huec8b670f05d578700693ea9506b318e0_306248_750407d4a220bc88442ab69104e655c2.webp 760w,
+               /post/climatechange_sdm/Likert_Assessment_F25_Violin_huec8b670f05d578700693ea9506b318e0_306248_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/climatechange_sdm/Likert_Assessment_F25_Violin_huec8b670f05d578700693ea9506b318e0_306248_c022f2eaf999b5cab6f04b03420e16ff.webp&#34;
                width=&#34;760&#34;
-               height=&#34;507&#34;
+               height=&#34;456&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
