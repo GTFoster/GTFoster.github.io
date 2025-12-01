@@ -1,7 +1,7 @@
   ---
-title: Draft-Using SDMs to Connect Climate Change to Student's Lived Experience
-date: '2025-05-23'
-summary: An initial draft of materials for a three-module lab series, supported by a USC Center for Teaching Excellence Materials Development Grant. 
+title: Updated Climate Change Module!
+date: '2025-11-26'
+summary: An updated version of the climate change module, as implemented across all 301 lab sections
 ---
 
 You may have read this a post a while back detailing my first draft of materials for a CLimate Change module developed with the support of a USC Center for Teaching Excellence [GTA Teaching Resource Development Grant](https://sc.edu/about/offices_and_divisions/cte/programs/grants/gta_teaching_resources_grant/index.php). 

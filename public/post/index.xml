@@ -5,7 +5,7 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Draft-Using SDMs to Connect Climate Change to Student&#39;s Lived Experience</title>
+      <title>Updated Climate Change Module!</title>
       <link>https://example.com/post/climatechange_sdm/</link>
-      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/climatechange_sdm/</guid>
       <description>&lt;p&gt;You may have read this a post a while back detailing my first draft of materials for a CLimate Change module developed with the support of a USC Center for Teaching Excellence &lt;a href=&#34;https://sc.edu/about/offices_and_divisions/cte/programs/grants/gta_teaching_resources_grant/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTA Teaching Resource Development Grant&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;After trialing this lab in my classes in Fall 2024, I improved these materials and my fellow 301L TA&amp;rsquo;s on how to use them. We implemented them across all 10 sections this year (~230 students), and the lab got some really great feedback both from students and instructors!&lt;/p&gt;
