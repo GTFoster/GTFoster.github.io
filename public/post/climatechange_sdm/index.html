@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: August 11, 2025 --><html lang="en-us" >
+<!-- Last Published: December 1, 2025 --><html lang="en-us" >
 
 
 <head>
@@ -365,7 +365,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Grant Foster" />
 <meta property="og:url" content="https://example.com/post/climatechange_sdm/" />
-<meta property="og:title" content="Using SDMs to Connect Climate Change to Student&#39;s Lived Experience | Grant Foster" />
+<meta property="og:title" content="Draft-Using SDMs to Connect Climate Change to Student&#39;s Lived Experience | Grant Foster" />
 <meta property="og:description" content="An initial draft of materials for a three-module lab series, supported by a USC Center for Teaching Excellence Materials Development Grant." /><meta property="og:image" content="https://example.com/post/climatechange_sdm/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
@@ -403,7 +403,7 @@
     "@type": "WebPage",
     "@id": "https://example.com/post/climatechange_sdm/"
   },
-  "headline": "Using SDMs to Connect Climate Change to Student's Lived Experience",
+  "headline": "Draft-Using SDMs to Connect Climate Change to Student's Lived Experience",
   
   "image": [
     "https://example.com/post/climatechange_sdm/featured.jpg"
@@ -447,7 +447,7 @@
 
 
   
-  <title>Using SDMs to Connect Climate Change to Student&#39;s Lived Experience | Grant Foster</title>
+  <title>Draft-Using SDMs to Connect Climate Change to Student&#39;s Lived Experience | Grant Foster</title>
 
   
   
@@ -913,7 +913,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Using SDMs to Connect Climate Change to Student&#39;s Lived Experience</h1>
+  <h1>Draft-Using SDMs to Connect Climate Change to Student&#39;s Lived Experience</h1>
 
   
 
@@ -940,7 +940,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    2 min read
+    3 min read
   </span>
   
 
@@ -975,12 +975,54 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Anthropogenic climate change is a concept that often seems abstract to many students, and I feel like scaffolding students&rsquo; learning about climate impacts onto their personal experiences with local ecosystems can make them learn more effectively.</p>
-<p>I pitched this premise to USC&rsquo;s Center for Teaching Excellence under their <a href="https://sc.edu/about/offices_and_divisions/cte/programs/grants/gta_teaching_resources_grant/index.php" target="_blank" rel="noopener">GTA Teaching Resource Development Grant</a> in Spring 2024 and was lucky enough to receive to support developing these materials.</p>
-<p>Broadly centered on helping students understand the evidence for anthropogenic-drivers of climate change and connect its effects to their own lived experiences, I&rsquo;d originally pitched these materials to be broken down into three submodules. The first asks students to evaluate evidence for anthropogenic climate change and evaluate different arguments commonly made to belittle its effects or causes through role-play debates. The second asks students to analyze local climate data and develop species distribution models for local species under projected climatic scenarios. Finally, students will be asked to research and speak about a way that climate change impacts their own experience. While together these three submodules do scaffold off one another, an emphasis on modularity allows materials to be changed or adapted to different course contexts.</p>
-<p>I presented and got some really helpful feedback on this proposal as a panelist in <a href="https://esa.org/programs/ecology-education/reefs/reefs-2024/" target="_blank" rel="noopener">ESA&rsquo;s 2024 REEFS session</a>, and trialed a draft of these materials in two sections of Ecology and Evolution lab Fall of 2025. You can check those initial versions of those <a href="/uploads/climChangeSDMlab13.zip">here</a>.</p>
-<p>I&rsquo;m really happy with the engagement I got from students, and many of them made some pretty cool species distribution maps of taxa they&rsquo;re interested in.</p>
-<p>I&rsquo;m hoping to (eventually) write submodule two of this into a shiny app that can help make it more accessible to courses that aren&rsquo;t using R. I&rsquo;ll also be steadily improving this before implementing it again in labs this coming Fall, so check back for more update versions!</p>
+      <p>You may have read this a post a while back detailing my first draft of materials for a CLimate Change module developed with the support of a USC Center for Teaching Excellence <a href="https://sc.edu/about/offices_and_divisions/cte/programs/grants/gta_teaching_resources_grant/index.php" target="_blank" rel="noopener">GTA Teaching Resource Development Grant</a>.</p>
+<p>After trialing this lab in my classes in Fall 2024, I improved these materials and my fellow 301L TA&rsquo;s on how to use them. We implemented them across all 10 sections this year (~230 students), and the lab got some really great feedback both from students and instructors!</p>
+<p>An updated versions of these lab materials are available here.</p>
+<p>A quick summary of updates are:</p>
+<ul>
+<li>Incorporating a second SSP climate projection (2.6). Instead of just using the most extreme warming scenario (SSP 8.5), students compare the two climate scenarios. The model still runs as one function, but now gives three output maps (current conditions, 2061-2080 under SSP 2.6, and 2061-2080 under SSP 8.5)</li>
+<li>Model Realism Improvements: The previous version of this model only used WORLDCLIM predictors (after getting rid of collinearity through a PCA reduction). These are still likely the most important and did fairly well, but both to increase performance and get students thinking about more factors that could limit species distributions, I added elevation, soil charactersistics (ph, carbon content, sand and silt content), and a course vegetation measure (average Summer &amp; Winter NDVI from 2024).</li>
+<li>Model Efficiency + Intermediate Data Products: To make the model run faster on the lab computers, I cut down a lot of the analysis that was previously done in the main function and instead saved intermediate products as part of the module materials. This increased speed significantly: On lab computers students could run the models on ~7k species in under 2min, which is plenty fast enough for our purposes.</li>
+<li>Various small things, including improving plotting outputs, clarifying a few worksheet questions, etc.</li>
+</ul>
+<p>I&rsquo;m very happy with how implementation across sections went this semester. I gave a simple Likert self-assessment of students&rsquo; confidence in their ability to meet LO&rsquo;s befoe the lab &amp; one week after the lab, and unsurprisingly student self-assessment scores increased significantly across all the LOs I asked about.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /post/climatechange_sdm/Likert_Assessment_F25_Violin_hu60f1353fb4c777f6adb8c29ab439d149_119003_f1bc1b3f22d3c8e0264855c6986ebe61.webp 400w,
+               /post/climatechange_sdm/Likert_Assessment_F25_Violin_hu60f1353fb4c777f6adb8c29ab439d149_119003_7468652d908b2b47b0301223d73b8565.webp 760w,
+               /post/climatechange_sdm/Likert_Assessment_F25_Violin_hu60f1353fb4c777f6adb8c29ab439d149_119003_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/post/climatechange_sdm/Likert_Assessment_F25_Violin_hu60f1353fb4c777f6adb8c29ab439d149_119003_f1bc1b3f22d3c8e0264855c6986ebe61.webp"
+               width="760"
+               height="507"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+The graph above shows violin plots of student self assessment scores corresponding to learning outcomes. Significance was assessed using a paired two-sample t-test. The LO&rsquo;s from left to right are as follows.</p>
+<p>A) I understand some of the basic mechanisms of Climate Change (CC) and some evidence we have supporting these mechanisms. (Mean increase of 0.5, p=0.002)</p>
+<p>B) I can describe some of the different impacts CC has across ecosystems (Mean increase of 0.375, p=0.037)</p>
+<p>C) I can describe some of the factors that control species geographic ranges (Mean increase of 0.625, p=0.001)</p>
+<p>D) I can make predictions about how species ranges may shift with CC (Mean increase of 0.625, p=0.001)</p>
+<p>E) I understand some of the mechanisms in which natural populations may respond to CC (Mean increase of 0.375, p=0.012)</p>
+<p>F) I understand some of the mechanisms in which natural populations may respond to CC (Mean increase of 0.5, p=0.027)</p>
 
     </div>
 
@@ -1007,7 +1049,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpost%2Fclimatechange_sdm%2F&amp;text=Using&#43;SDMs&#43;to&#43;Connect&#43;Climate&#43;Change&#43;to&#43;Student%27s&#43;Lived&#43;Experience" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpost%2Fclimatechange_sdm%2F&amp;text=Draft-Using&#43;SDMs&#43;to&#43;Connect&#43;Climate&#43;Change&#43;to&#43;Student%27s&#43;Lived&#43;Experience" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1024,7 +1066,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpost%2Fclimatechange_sdm%2F&amp;t=Using&#43;SDMs&#43;to&#43;Connect&#43;Climate&#43;Change&#43;to&#43;Student%27s&#43;Lived&#43;Experience" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpost%2Fclimatechange_sdm%2F&amp;t=Draft-Using&#43;SDMs&#43;to&#43;Connect&#43;Climate&#43;Change&#43;to&#43;Student%27s&#43;Lived&#43;Experience" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1043,7 +1085,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Using%20SDMs%20to%20Connect%20Climate%20Change%20to%20Student%27s%20Lived%20Experience&amp;body=https%3A%2F%2Fexample.com%2Fpost%2Fclimatechange_sdm%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Draft-Using%20SDMs%20to%20Connect%20Climate%20Change%20to%20Student%27s%20Lived%20Experience&amp;body=https%3A%2F%2Fexample.com%2Fpost%2Fclimatechange_sdm%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1060,7 +1102,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpost%2Fclimatechange_sdm%2F&amp;title=Using&#43;SDMs&#43;to&#43;Connect&#43;Climate&#43;Change&#43;to&#43;Student%27s&#43;Lived&#43;Experience" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpost%2Fclimatechange_sdm%2F&amp;title=Draft-Using&#43;SDMs&#43;to&#43;Connect&#43;Climate&#43;Change&#43;to&#43;Student%27s&#43;Lived&#43;Experience" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1077,7 +1119,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Using&#43;SDMs&#43;to&#43;Connect&#43;Climate&#43;Change&#43;to&#43;Student%27s&#43;Lived&#43;Experience%20https%3A%2F%2Fexample.com%2Fpost%2Fclimatechange_sdm%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Draft-Using&#43;SDMs&#43;to&#43;Connect&#43;Climate&#43;Change&#43;to&#43;Student%27s&#43;Lived&#43;Experience%20https%3A%2F%2Fexample.com%2Fpost%2Fclimatechange_sdm%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1094,7 +1136,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpost%2Fclimatechange_sdm%2F&amp;title=Using&#43;SDMs&#43;to&#43;Connect&#43;Climate&#43;Change&#43;to&#43;Student%27s&#43;Lived&#43;Experience" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpost%2Fclimatechange_sdm%2F&amp;title=Draft-Using&#43;SDMs&#43;to&#43;Connect&#43;Climate&#43;Change&#43;to&#43;Student%27s&#43;Lived&#43;Experience" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

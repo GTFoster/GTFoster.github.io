@@ -1,21 +1,40 @@
   ---
-title: Using SDMs to Connect Climate Change to Student's Lived Experience
+title: Draft-Using SDMs to Connect Climate Change to Student's Lived Experience
 date: '2025-05-23'
 summary: An initial draft of materials for a three-module lab series, supported by a USC Center for Teaching Excellence Materials Development Grant. 
 ---
 
+You may have read this a post a while back detailing my first draft of materials for a CLimate Change module developed with the support of a USC Center for Teaching Excellence [GTA Teaching Resource Development Grant](https://sc.edu/about/offices_and_divisions/cte/programs/grants/gta_teaching_resources_grant/index.php). 
 
-Anthropogenic climate change is a concept that often seems abstract to many students, and I feel like scaffolding students' learning about climate impacts onto their personal experiences with local ecosystems can make them learn more effectively. 
+After trialing this lab in my classes in Fall 2024, I improved these materials and my fellow 301L TA's on how to use them. We implemented them across all 10 sections this year (~230 students), and the lab got some really great feedback both from students and instructors! 
 
-I pitched this premise to USC's Center for Teaching Excellence under their [GTA Teaching Resource Development Grant](https://sc.edu/about/offices_and_divisions/cte/programs/grants/gta_teaching_resources_grant/index.php) in Spring 2024 and was lucky enough to receive to support developing these materials. 
+An updated versions of these lab materials are available here. 
 
-Broadly centered on helping students understand the evidence for anthropogenic-drivers of climate change and connect its effects to their own lived experiences, I'd originally pitched these materials to be broken down into three submodules. The first asks students to evaluate evidence for anthropogenic climate change and evaluate different arguments commonly made to belittle its effects or causes through role-play debates. The second asks students to analyze local climate data and develop species distribution models for local species under projected climatic scenarios. Finally, students will be asked to research and speak about a way that climate change impacts their own experience. While together these three submodules do scaffold off one another, an emphasis on modularity allows materials to be changed or adapted to different course contexts.
+A quick summary of updates are: 
+ - Incorporating a second SSP climate projection (2.6). Instead of just using the most extreme warming scenario (SSP 8.5), students compare the two climate scenarios. The model still runs as one function, but now gives three output maps (current conditions, 2061-2080 under SSP 2.6, and 2061-2080 under SSP 8.5)
+ - Model Realism Improvements: The previous version of this model only used WORLDCLIM predictors (after getting rid of collinearity through a PCA reduction). These are still likely the most important and did fairly well, but both to increase performance and get students thinking about more factors that could limit species distributions, I added elevation, soil charactersistics (ph, carbon content, sand and silt content), and a course vegetation measure (average Summer & Winter NDVI from 2024). 
+ - Model Efficiency + Intermediate Data Products: To make the model run faster on the lab computers, I cut down a lot of the analysis that was previously done in the main function and instead saved intermediate products as part of the module materials. This increased speed significantly: On lab computers students could run the models on ~7k species in under 2min, which is plenty fast enough for our purposes. 
+ - Various small things, including improving plotting outputs, clarifying a few worksheet questions, etc. 
 
-I presented and got some really helpful feedback on this proposal as a panelist in [ESA's 2024 REEFS session](https://esa.org/programs/ecology-education/reefs/reefs-2024/), and trialed a draft of these materials in two sections of Ecology and Evolution lab Fall of 2025. You can check those initial versions of those [here](/uploads/climChangeSDMlab13.zip).
 
-I'm really happy with the engagement I got from students, and many of them made some pretty cool species distribution maps of taxa they're interested in. 
+I'm very happy with how implementation across sections went this semester. I gave a simple Likert self-assessment of students' confidence in their ability to meet LO's befoe the lab & one week after the lab, and unsurprisingly student self-assessment scores increased significantly across all the LOs I asked about. 
 
-I'm hoping to (eventually) write submodule two of this into a shiny app that can help make it more accessible to courses that aren't using R. I'll also be steadily improving this before implementing it again in labs this coming Fall, so check back for more update versions! 
+
+{{< figure src="Likert_Assessment_F25_Violin.png">}}
+The graph above shows violin plots of student self assessment scores corresponding to learning outcomes. Significance was assessed using a paired two-sample t-test. The LO's from left to right are as follows. 
+
+
+A) I understand some of the basic mechanisms of Climate Change (CC) and some evidence we have supporting these mechanisms. (Mean increase of 0.5, p=0.002)
+
+B) I can describe some of the different impacts CC has across ecosystems (Mean increase of 0.375, p=0.037)
+
+C) I can describe some of the factors that control species geographic ranges (Mean increase of 0.625, p=0.001)
+
+D) I can make predictions about how species ranges may shift with CC (Mean increase of 0.625, p=0.001)
+
+E) I understand some of the mechanisms in which natural populations may respond to CC (Mean increase of 0.375, p=0.012)
+
+F) I understand some of the mechanisms in which natural populations may respond to CC (Mean increase of 0.5, p=0.027)
 
 
 

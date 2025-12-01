@@ -13,10 +13,66 @@
     </image>
     
     <item>
-      <title>Using SDMs to Connect Climate Change to Student&#39;s Lived Experience</title>
+      <title>Draft-Using SDMs to Connect Climate Change to Student&#39;s Lived Experience</title>
       <link>https://example.com/post/climatechange_sdm/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/climatechange_sdm/</guid>
+      <description>&lt;p&gt;You may have read this a post a while back detailing my first draft of materials for a CLimate Change module developed with the support of a USC Center for Teaching Excellence &lt;a href=&#34;https://sc.edu/about/offices_and_divisions/cte/programs/grants/gta_teaching_resources_grant/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTA Teaching Resource Development Grant&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;After trialing this lab in my classes in Fall 2024, I improved these materials and my fellow 301L TA&amp;rsquo;s on how to use them. We implemented them across all 10 sections this year (~230 students), and the lab got some really great feedback both from students and instructors!&lt;/p&gt;
+&lt;p&gt;An updated versions of these lab materials are available here.&lt;/p&gt;
+&lt;p&gt;A quick summary of updates are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Incorporating a second SSP climate projection (2.6). Instead of just using the most extreme warming scenario (SSP 8.5), students compare the two climate scenarios. The model still runs as one function, but now gives three output maps (current conditions, 2061-2080 under SSP 2.6, and 2061-2080 under SSP 8.5)&lt;/li&gt;
+&lt;li&gt;Model Realism Improvements: The previous version of this model only used WORLDCLIM predictors (after getting rid of collinearity through a PCA reduction). These are still likely the most important and did fairly well, but both to increase performance and get students thinking about more factors that could limit species distributions, I added elevation, soil charactersistics (ph, carbon content, sand and silt content), and a course vegetation measure (average Summer &amp;amp; Winter NDVI from 2024).&lt;/li&gt;
+&lt;li&gt;Model Efficiency + Intermediate Data Products: To make the model run faster on the lab computers, I cut down a lot of the analysis that was previously done in the main function and instead saved intermediate products as part of the module materials. This increased speed significantly: On lab computers students could run the models on ~7k species in under 2min, which is plenty fast enough for our purposes.&lt;/li&gt;
+&lt;li&gt;Various small things, including improving plotting outputs, clarifying a few worksheet questions, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;m very happy with how implementation across sections went this semester. I gave a simple Likert self-assessment of students&amp;rsquo; confidence in their ability to meet LO&amp;rsquo;s befoe the lab &amp;amp; one week after the lab, and unsurprisingly student self-assessment scores increased significantly across all the LOs I asked about.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/climatechange_sdm/Likert_Assessment_F25_Violin_hu60f1353fb4c777f6adb8c29ab439d149_119003_f1bc1b3f22d3c8e0264855c6986ebe61.webp 400w,
+               /post/climatechange_sdm/Likert_Assessment_F25_Violin_hu60f1353fb4c777f6adb8c29ab439d149_119003_7468652d908b2b47b0301223d73b8565.webp 760w,
+               /post/climatechange_sdm/Likert_Assessment_F25_Violin_hu60f1353fb4c777f6adb8c29ab439d149_119003_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/climatechange_sdm/Likert_Assessment_F25_Violin_hu60f1353fb4c777f6adb8c29ab439d149_119003_f1bc1b3f22d3c8e0264855c6986ebe61.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+The graph above shows violin plots of student self assessment scores corresponding to learning outcomes. Significance was assessed using a paired two-sample t-test. The LO&amp;rsquo;s from left to right are as follows.&lt;/p&gt;
+&lt;p&gt;A) I understand some of the basic mechanisms of Climate Change (CC) and some evidence we have supporting these mechanisms. (Mean increase of 0.5, p=0.002)&lt;/p&gt;
+&lt;p&gt;B) I can describe some of the different impacts CC has across ecosystems (Mean increase of 0.375, p=0.037)&lt;/p&gt;
+&lt;p&gt;C) I can describe some of the factors that control species geographic ranges (Mean increase of 0.625, p=0.001)&lt;/p&gt;
+&lt;p&gt;D) I can make predictions about how species ranges may shift with CC (Mean increase of 0.625, p=0.001)&lt;/p&gt;
+&lt;p&gt;E) I understand some of the mechanisms in which natural populations may respond to CC (Mean increase of 0.375, p=0.012)&lt;/p&gt;
+&lt;p&gt;F) I understand some of the mechanisms in which natural populations may respond to CC (Mean increase of 0.5, p=0.027)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Draft-Using SDMs to Connect Climate Change to Student&#39;s Lived Experience</title>
+      <link>https://example.com/post/climatechange_sdm_draft/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/climatechange_sdm_draft/</guid>
       <description>&lt;p&gt;Anthropogenic climate change is a concept that often seems abstract to many students, and I feel like scaffolding students&amp;rsquo; learning about climate impacts onto their personal experiences with local ecosystems can make them learn more effectively.&lt;/p&gt;
 &lt;p&gt;I pitched this premise to USC&amp;rsquo;s Center for Teaching Excellence under their &lt;a href=&#34;https://sc.edu/about/offices_and_divisions/cte/programs/grants/gta_teaching_resources_grant/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTA Teaching Resource Development Grant&lt;/a&gt; in Spring 2024 and was lucky enough to receive to support developing these materials.&lt;/p&gt;
 &lt;p&gt;Broadly centered on helping students understand the evidence for anthropogenic-drivers of climate change and connect its effects to their own lived experiences, I&amp;rsquo;d originally pitched these materials to be broken down into three submodules. The first asks students to evaluate evidence for anthropogenic climate change and evaluate different arguments commonly made to belittle its effects or causes through role-play debates. The second asks students to analyze local climate data and develop species distribution models for local species under projected climatic scenarios. Finally, students will be asked to research and speak about a way that climate change impacts their own experience. While together these three submodules do scaffold off one another, an emphasis on modularity allows materials to be changed or adapted to different course contexts.&lt;/p&gt;
