@@ -4,9 +4,9 @@ date: '2025-11-26'
 summary: An updated version of the climate change module, as implemented across all 301 lab sections
 ---
 
-You may have read this a post a while back detailing my first draft of materials for a CLimate Change module developed with the support of a USC Center for Teaching Excellence [GTA Teaching Resource Development Grant](https://sc.edu/about/offices_and_divisions/cte/programs/grants/gta_teaching_resources_grant/index.php). 
+You may have read [this post](/post/climatechange_sdm_draft) a while back detailing my first draft of materials for a Climate Change module developed with the support of a USC Center for Teaching Excellence [GTA Teaching Resource Development Grant](https://sc.edu/about/offices_and_divisions/cte/programs/grants/gta_teaching_resources_grant/index.php). 
 
-After trialing this lab in my classes in Fall 2024, I improved these materials and my fellow 301L TA's on how to use them. We implemented them across all 10 sections this year (~230 students), and the lab got some really great feedback both from students and instructors! 
+After trialing this lab in my classes in Fall 2024, I presented some updated versions to our lab coordinator as well as the other teaching assistants. After incorporating some  helpful feedback from them, I created the latest versions and we implemented the module across all 10 sections being taught this year (~230 students). I'm really happy with the newer version; the lab got some really great feedback from both students and instructors. 
 
 An updated versions of these lab materials are available [here](/uploads/CC_Fall25.zip). 
 
@@ -17,7 +17,7 @@ A quick summary of updates are:
  - Various small things, including improving plotting outputs, clarifying a few worksheet questions, etc. 
 
 
-I'm very happy with how implementation across sections went this semester. I gave a simple Likert self-assessment of students' confidence in their ability to meet LO's befoe the lab & one week after the lab, and unsurprisingly student self-assessment scores increased significantly across all the LOs I asked about. 
+I'm very happy with how implementation across sections went this semester. I gave a simple Likert self-assessment of students' confidence in their ability to meet the associated Learning Objectives before the lab & one week after the lab, and unsurprisingly student self-assessment scores increased significantly across all the LOs I asked about. 
 
 
 {{< figure src="Likert_Assessment_F25_Violin.png">}}

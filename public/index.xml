@@ -13,12 +13,20 @@
     </image>
     
     <item>
+      <title>Comparing the power of phylogenetic, trait and network structure information to predict plant–frugivore interactions</title>
+      <link>https://example.com/publication/fruglink/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fruglink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Updated Climate Change Module!</title>
       <link>https://example.com/post/climatechange_sdm/</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/climatechange_sdm/</guid>
-      <description>&lt;p&gt;You may have read this a post a while back detailing my first draft of materials for a CLimate Change module developed with the support of a USC Center for Teaching Excellence &lt;a href=&#34;https://sc.edu/about/offices_and_divisions/cte/programs/grants/gta_teaching_resources_grant/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTA Teaching Resource Development Grant&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;After trialing this lab in my classes in Fall 2024, I improved these materials and my fellow 301L TA&amp;rsquo;s on how to use them. We implemented them across all 10 sections this year (~230 students), and the lab got some really great feedback both from students and instructors!&lt;/p&gt;
+      <description>&lt;p&gt;You may have read &lt;a href=&#34;https://example.com/post/climatechange_sdm_draft&#34;&gt;this post&lt;/a&gt; a while back detailing my first draft of materials for a Climate Change module developed with the support of a USC Center for Teaching Excellence &lt;a href=&#34;https://sc.edu/about/offices_and_divisions/cte/programs/grants/gta_teaching_resources_grant/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTA Teaching Resource Development Grant&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;After trialing this lab in my classes in Fall 2024, I presented some updated versions to our lab coordinator as well as the other teaching assistants. After incorporating some  helpful feedback from them, I created the latest versions and we implemented the module across all 10 sections being taught this year (~230 students). I&amp;rsquo;m really happy with the newer version; the lab got some really great feedback from both students and instructors.&lt;/p&gt;
 &lt;p&gt;An updated versions of these lab materials are available &lt;a href=&#34;https://example.com/uploads/CC_Fall25.zip&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;A quick summary of updates are:&lt;/p&gt;
 &lt;ul&gt;
@@ -27,7 +35,7 @@
 &lt;li&gt;Model Efficiency + Intermediate Data Products: To make the model run faster on the lab computers, I cut down a lot of the analysis that was previously done in the main function and instead saved intermediate products as part of the module materials. This increased speed significantly: On lab computers students could run the models on ~7k species in under 2min, which is plenty fast enough for our purposes.&lt;/li&gt;
 &lt;li&gt;Various small things, including improving plotting outputs, clarifying a few worksheet questions, etc.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;I&amp;rsquo;m very happy with how implementation across sections went this semester. I gave a simple Likert self-assessment of students&amp;rsquo; confidence in their ability to meet LO&amp;rsquo;s befoe the lab &amp;amp; one week after the lab, and unsurprisingly student self-assessment scores increased significantly across all the LOs I asked about.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m very happy with how implementation across sections went this semester. I gave a simple Likert self-assessment of students&amp;rsquo; confidence in their ability to meet the associated Learning Objectives before the lab &amp;amp; one week after the lab, and unsurprisingly student self-assessment scores increased significantly across all the LOs I asked about.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -49,10 +57,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/climatechange_sdm/Likert_Assessment_F25_Violin_huec8b670f05d578700693ea9506b318e0_306248_c022f2eaf999b5cab6f04b03420e16ff.webp 400w,
-               /post/climatechange_sdm/Likert_Assessment_F25_Violin_huec8b670f05d578700693ea9506b318e0_306248_750407d4a220bc88442ab69104e655c2.webp 760w,
+               /post/climatechange_sdm/Likert_Assessment_F25_Violin_huec8b670f05d578700693ea9506b318e0_306248_1054a5fe7bea4072004a5333cc079a0e.webp 400w,
+               /post/climatechange_sdm/Likert_Assessment_F25_Violin_huec8b670f05d578700693ea9506b318e0_306248_bd40ccaffd3630df3584ef3a6fee5060.webp 760w,
                /post/climatechange_sdm/Likert_Assessment_F25_Violin_huec8b670f05d578700693ea9506b318e0_306248_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/climatechange_sdm/Likert_Assessment_F25_Violin_huec8b670f05d578700693ea9506b318e0_306248_c022f2eaf999b5cab6f04b03420e16ff.webp&#34;
+               src=&#34;https://example.com/post/climatechange_sdm/Likert_Assessment_F25_Violin_huec8b670f05d578700693ea9506b318e0_306248_1054a5fe7bea4072004a5333cc079a0e.webp&#34;
                width=&#34;760&#34;
                height=&#34;456&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -84,7 +92,7 @@ The graph above shows violin plots of student self assessment scores correspondi
       <description>&lt;p&gt;Anthropogenic climate change is a concept that often seems abstract to many students, and I feel like scaffolding students&amp;rsquo; learning about climate impacts onto their personal experiences with local ecosystems can make them learn more effectively.&lt;/p&gt;
 &lt;p&gt;I pitched this premise to USC&amp;rsquo;s Center for Teaching Excellence under their &lt;a href=&#34;https://sc.edu/about/offices_and_divisions/cte/programs/grants/gta_teaching_resources_grant/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTA Teaching Resource Development Grant&lt;/a&gt; in Spring 2024 and was lucky enough to receive to support developing these materials.&lt;/p&gt;
 &lt;p&gt;Broadly centered on helping students understand the evidence for anthropogenic-drivers of climate change and connect its effects to their own lived experiences, I&amp;rsquo;d originally pitched these materials to be broken down into three submodules. The first asks students to evaluate evidence for anthropogenic climate change and evaluate different arguments commonly made to belittle its effects or causes through role-play debates. The second asks students to analyze local climate data and develop species distribution models for local species under projected climatic scenarios. Finally, students will be asked to research and speak about a way that climate change impacts their own experience. While together these three submodules do scaffold off one another, an emphasis on modularity allows materials to be changed or adapted to different course contexts.&lt;/p&gt;
-&lt;p&gt;I presented and got some really helpful feedback on this proposal as a panelist in &lt;a href=&#34;https://esa.org/programs/ecology-education/reefs/reefs-2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESA&amp;rsquo;s 2024 REEFS session&lt;/a&gt;, and trialed a draft of these materials in two sections of Ecology and Evolution lab Fall of 2025. You can check those initial versions of those &lt;a href=&#34;https://example.com/uploads/climChangeSDMlab13.zip&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I presented and got some really helpful feedback on this proposal as a panelist in &lt;a href=&#34;https://esa.org/programs/ecology-education/reefs/reefs-2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESA&amp;rsquo;s 2024 REEFS session&lt;/a&gt;, and trialed a draft of these materials in two sections of Ecology and Evolution lab Fall of 2025. You can check those initial versions of those &lt;a href=&#34;https://example.com/uploads/climChangeSDMlab13.zip&#34;&gt;here&lt;/a&gt;. UPDATE: I&amp;rsquo;ve since updated these materials, get the newest fileversions &lt;a href=&#34;https://example.com/uploads/CC_Fall25.zip&#34;&gt;here&lt;/a&gt; and read about the changes &lt;a href=&#34;https://example.com/post/climateChange_SDM&#34;&gt;here!&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m really happy with the engagement I got from students, and many of them made some pretty cool species distribution maps of taxa they&amp;rsquo;re interested in.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m hoping to (eventually) write submodule two of this into a shiny app that can help make it more accessible to courses that aren&amp;rsquo;t using R. I&amp;rsquo;ll also be steadily improving this before implementing it again in labs this coming Fall, so check back for more update versions!&lt;/p&gt;
 </description>
